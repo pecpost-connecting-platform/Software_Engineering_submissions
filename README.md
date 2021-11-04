@@ -10,4 +10,4 @@ Contains UML diagrams, project write-up and other documentation for the project 
 
 ## Documentation:
 
-[PecPost - Documentation](https://github.com/pecpost-connecting-platform/Software_Engineering_submissions)
+[PecPost - Documentation - UML diagrams](https://github.com/pecpost-connecting-platform/Software_Engineering_submissions/tree/main/UML%20diagrams)
